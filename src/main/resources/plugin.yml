@@ -1,0 +1,6 @@
+main: co.purevanilla.mcplugins.silkspawners.Main
+author: "quiquelhappy"
+description: "drops spawner with silk touch"
+version: "1.0.1"
+name: "SilkSpawners"
+api-version: "1.18"
